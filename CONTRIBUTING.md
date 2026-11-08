@@ -8,7 +8,7 @@ Read [STYLE.md](STYLE.md) first. It explains how to write the row.
 
 1. Open [README.md](README.md) on GitHub.
 2. Click the pencil icon. It says Edit.
-3. Pick the group that matches the job. Add one row to the table there. Copy a whole `<tr>` line from above it. Write ⭐ ? in the Stars column (the second one). A robot fills in the number.
+3. Add one row to the table. Copy a row that has the same "Use it for" label. Write ⭐ ? in the Stars column. A robot fills in the number.
 4. Click "Commit changes".
 5. Choose "Create a new branch and start a pull request".
 6. Fill in the short form.
