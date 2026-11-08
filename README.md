@@ -11,7 +11,7 @@ Good skills for AI coding agents, grouped by job. Pick a group. Click a skill.
 
 Use these to write LinkedIn posts, blog posts and other text that sounds human.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | ⭐&nbsp;5.7k | Writes LinkedIn posts and comments in your voice, and waits for your approval before posting. |
 | [Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | ⭐&nbsp;302 | Finds signs of AI writing in your text and gives it an AI-tell score. |
@@ -21,7 +21,7 @@ Use these to write LinkedIn posts, blog posts and other text that sounds human.
 
 Use these to make an app or website screen look designed, not generic.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [heydamir/unslop](https://github.com/heydamir/unslop) | ⭐&nbsp;11.4k | Finds the signs of AI-made UI and fixes spacing, color and copy to make it look designed. |
 
@@ -29,7 +29,7 @@ Use these to make an app or website screen look designed, not generic.
 
 Use these to build, test and check code in your projects.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | ⭐&nbsp;12.3k | Gives 67 specialist skills for full-stack developers. |
 | [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) | ⭐&nbsp;6.7k | Lets your agent use a web browser to open pages and check its own work. |
@@ -38,7 +38,7 @@ Use these to build, test and check code in your projects.
 
 Use these to build apps and sites on Cloudflare.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [cloudflare/skills](https://github.com/cloudflare/skills) | ⭐&nbsp;3.3k | Official Cloudflare skills for Workers, Agents SDK, Durable Objects, Wrangler and web performance. |
 
@@ -46,7 +46,7 @@ Use these to build apps and sites on Cloudflare.
 
 Use these to give a coding task to another agent and check the result.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [hchouhan/skills](https://github.com/hchouhan/skills) | ⭐&nbsp;0 | Includes delegate, which hands a coding task to Cursor or Codex, then checks the work. |
 
@@ -54,7 +54,7 @@ Use these to give a coding task to another agent and check the result.
 
 Use these to find more skills. Each one holds many skills in one place.
 
-| Skill | Stars | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
+| Skill<br><img src="assets/spacer.png" width="250" height="1" alt=""> | Stars<br><img src="assets/spacer.png" width="70" height="1" alt=""> | What it does<br><img src="assets/spacer.png" width="900" height="1" alt=""> |
 |:---|:---|:---|
 | [anthropics/skills](https://github.com/anthropics/skills) | ⭐&nbsp;188.9k | Example skills from Anthropic for documents, brand guidelines, canvas design and the Claude API. |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐&nbsp;79k | A curated list of Claude Skills, resources and tools. |
