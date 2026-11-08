@@ -1,0 +1,36 @@
+name: Suggest a skill
+description: Suggest a skill for the list. Use this if you cannot make a pull request.
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Link to the repository
+      description: Paste the GitHub link. Example - https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: what-it-does
+    attributes:
+      label: What does it do?
+      description: Write one plain sentence.
+    validations:
+      required: true
+  - type: dropdown
+    id: agent
+    attributes:
+      label: Which agent does it work with?
+      options:
+        - Claude Code
+        - Codex
+        - Cursor
+        - Other
+        - All
+    validations:
+      required: true
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+      description: Optional.
+    validations:
+      required: false
