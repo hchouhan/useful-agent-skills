@@ -1,7 +1,7 @@
 """Update the star counts in the README tables. Uses only the Python standard library."""
 import json, os, re, urllib.request
 
-ROW = re.compile(r'^(\| \[([\w.-]+/[\w.-]+)\]\(https://github\.com/[^)]+\) \| )⭐(?:&nbsp;| )[^|]*( \|.*)$', re.M)
+ROW = re.compile(r'^(<tr><td><a href="https://github\.com/[^"]+">([\w.-]+/[\w.-]+)</a></td><td>)⭐(?:&nbsp;| )[^<]*(</td>.*)$', re.M)
 
 def stars(repo):
     req = urllib.request.Request(f"https://api.github.com/repos/{repo}")
