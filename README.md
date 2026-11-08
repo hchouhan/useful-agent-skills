@@ -10,7 +10,7 @@ We do not copy skills here. Each row links to the original repository.
 
 Star counts update by themselves every week.
 
-Each row links to a skill repository. Each skill belongs to its owner.
+Each skill belongs to its owner.
 
 **Jump to**
 
