@@ -1,7 +1,7 @@
 """Update the star counts in the README tables. Uses only the Python standard library."""
 import json, os, re, urllib.request
 
-ROW = re.compile(r'^(\| \[([\w.-]+/[\w.-]+)\]\(https://github\.com/[^)]+\) \|.*\| )⭐ [^|]*\|$', re.M)
+ROW = re.compile(r'^(\| \[([\w.-]+/[\w.-]+)\]\(https://github\.com/[^)]+\) \| )⭐(?:&nbsp;| )[^|]*( \|.*)$', re.M)
 
 def stars(repo):
     req = urllib.request.Request(f"https://api.github.com/repos/{repo}")
@@ -19,7 +19,7 @@ def short(n):
 
 def fix(m):
     try:
-        return f"{m.group(1)}⭐ {short(stars(m.group(2)))} |"
+        return f"{m.group(1)}⭐&nbsp;{short(stars(m.group(2)))}{m.group(3)}"
     except Exception as e:  # keep the old number if one repo fails
         print(f"Skipped {m.group(2)}: {e}")
         return m.group(0)
