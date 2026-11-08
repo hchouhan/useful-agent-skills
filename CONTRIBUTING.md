@@ -6,7 +6,7 @@ Read [STYLE.md](STYLE.md) first. It explains how to write the line.
 
 ## Steps
 
-1. Open [SKILLS.md](SKILLS.md) on GitHub.
+1. Open [README.md](README.md) on GitHub.
 2. Click the pencil icon. It says Edit.
 3. Pick the group that matches the job. Add one line there, in the same format as the lines near it.
 4. Click "Commit changes".
@@ -22,7 +22,7 @@ Read [STYLE.md](STYLE.md) first. It explains how to write the line.
 - Your line is one plain sentence.
 - Do not copy skill text into this list. Link only.
 - No affiliate links.
-- No duplicates. Check [SKILLS.md](SKILLS.md) first.
+- No duplicates. Check [README.md](README.md) first.
 
 ## What happens next
 
