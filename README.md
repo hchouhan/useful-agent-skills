@@ -9,9 +9,10 @@ We do not copy skills here. Each line links to the original repository.
 ## How to use the list
 
 1. Open [SKILLS.md](SKILLS.md).
-2. Pick a skill that fits your work.
-3. Click its link.
-4. Follow the instructions in that repository.
+2. Pick the group that matches your job.
+3. Pick a skill in that group.
+4. Click its link.
+5. Follow the instructions in that repository.
 
 ## How to suggest a skill
 

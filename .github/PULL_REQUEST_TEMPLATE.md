@@ -1,6 +1,6 @@
 ## Checklist
 
-- [ ] I added one line to SKILLS.md, in the right group.
+- [ ] I added one line to SKILLS.md, in the group that matches the job.
 - [ ] The repository is public.
 - [ ] I checked that the skill works.
 - [ ] My line is one plain sentence.

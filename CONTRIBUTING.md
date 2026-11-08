@@ -8,7 +8,7 @@ Read [STYLE.md](STYLE.md) first. It explains how to write the line.
 
 1. Open [SKILLS.md](SKILLS.md) on GitHub.
 2. Click the pencil icon. It says Edit.
-3. Add one line in the right group. Copy the format of the lines near it.
+3. Pick the group that matches the job. Add one line there, in the same format as the lines near it.
 4. Click "Commit changes".
 5. Choose "Create a new branch and start a pull request".
 6. Fill in the short form.
