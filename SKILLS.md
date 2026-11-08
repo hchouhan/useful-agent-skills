@@ -7,7 +7,6 @@ Each line links to a skill repository. Each skill belongs to its owner.
 **Jump to**
 
 - [Writing and content](#writing-and-content)
-- [Marketing and SEO](#marketing-and-seo)
 - [Design and interface work](#design-and-interface-work)
 - [Coding and review](#coding-and-review)
 - [Web and Cloudflare](#web-and-cloudflare)
@@ -21,11 +20,6 @@ Use these to write LinkedIn posts, blog posts and other text that sounds human.
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Writes LinkedIn posts and comments in your voice, and waits for your approval before posting. Works with: Claude Code, Codex. (5.7k stars)
 - [Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill) - Finds signs of AI writing in your text and gives it an AI-tell score. Works with: Claude Code, Cursor, Codex, Gemini CLI. (302 stars)
 
-## Marketing and SEO
-
-Use these to plan ads, SEO work and buyer research for a product or site.
-
-- [irinabuht12-oss/marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) - Gives 49 skills for ads, SEO and buyer research, plus an optional ads connector from the vendor. Works with: Claude Code, Cursor. (7.0k stars)
 
 ## Design and interface work
 
