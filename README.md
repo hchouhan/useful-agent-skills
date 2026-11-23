@@ -8,6 +8,7 @@ Good skills for AI coding agents, grouped by job. Find your job. Click the skill
 | Use it for | Skill | Stars | What it does |
 |:---|:---|:---|:---|
 | ✍️ Writing | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | ⭐&nbsp;6k | Writes LinkedIn posts and comments in your voice, and waits for your approval before posting. |
+| ✍️ Writing | [Jakeschincariol/linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐&nbsp;? | Writes LinkedIn posts, comments, DMs and plans, and has a humanizer that scores AI-sounding text. |
 | ✍️ Writing | [Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | ⭐&nbsp;319 | Finds signs of AI writing in your text and gives it an AI-tell score. |
 | 🎨 Design | [heydamir/unslop](https://github.com/heydamir/unslop) | ⭐&nbsp;17.1k | Finds the signs of AI-made UI and fixes spacing, color and copy to make it look designed. |
 | 💻 Coding | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | ⭐&nbsp;12.4k | Gives 67 specialist skills for full-stack developers. |
